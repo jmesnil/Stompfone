@@ -1,0 +1,720 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* StompfoneAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 455}}";
+			sepNavSelRange = "{398, 0}";
+			sepNavVisRange = "{0, 535}";
+		};
+	};
+	1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1417}}";
+			sepNavSelRange = "{3622, 0}";
+			sepNavVisRange = "{2583, 1077}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Stompfone */ = {
+		activeExec = 0;
+		executables = (
+			936B2C8B125F5C9B006A39D0 /* Stompfone */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 936B2C8B125F5C9B006A39D0 /* Stompfone */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Stompfone */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Stompfone */,
+		);
+		breakpoints = (
+			936B2D1B125F6452006A39D0 /* CRVStompClient.m:112 */,
+		);
+		codeSenseManager = 936B2C9B125F5C9C006A39D0 /* Code sense */;
+		executables = (
+			936B2C8B125F5C9B006A39D0 /* Stompfone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					781,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308239515;
+			PBXWorkspaceStateSaveDate = 308239515;
+		};
+		perUserProjectItems = {
+			936B2CBC125F5E7F006A39D0 /* XCBuildMessageTextBookmark */ = 936B2CBC125F5E7F006A39D0 /* XCBuildMessageTextBookmark */;
+			936B2CBD125F5E7F006A39D0 /* PBXTextBookmark */ = 936B2CBD125F5E7F006A39D0 /* PBXTextBookmark */;
+			936B2CE6125F61E2006A39D0 /* PBXTextBookmark */ = 936B2CE6125F61E2006A39D0 /* PBXTextBookmark */;
+			936B2CE7125F61E2006A39D0 /* PBXTextBookmark */ = 936B2CE7125F61E2006A39D0 /* PBXTextBookmark */;
+			936B2CE8125F61E2006A39D0 /* PBXTextBookmark */ = 936B2CE8125F61E2006A39D0 /* PBXTextBookmark */;
+			936B2CE9125F61E2006A39D0 /* PBXTextBookmark */ = 936B2CE9125F61E2006A39D0 /* PBXTextBookmark */;
+			936B2CEA125F61E2006A39D0 /* PBXTextBookmark */ = 936B2CEA125F61E2006A39D0 /* PBXTextBookmark */;
+			936B2CEB125F61E2006A39D0 /* PBXTextBookmark */ = 936B2CEB125F61E2006A39D0 /* PBXTextBookmark */;
+			936B2CEC125F61E2006A39D0 /* PBXTextBookmark */ = 936B2CEC125F61E2006A39D0 /* PBXTextBookmark */;
+			936B2CF6125F62A8006A39D0 /* PBXTextBookmark */ = 936B2CF6125F62A8006A39D0 /* PBXTextBookmark */;
+			936B2CF7125F62A8006A39D0 /* PBXTextBookmark */ = 936B2CF7125F62A8006A39D0 /* PBXTextBookmark */;
+			936B2CF8125F62A8006A39D0 /* PBXTextBookmark */ = 936B2CF8125F62A8006A39D0 /* PBXTextBookmark */;
+			936B2CF9125F62A8006A39D0 /* PBXTextBookmark */ = 936B2CF9125F62A8006A39D0 /* PBXTextBookmark */;
+			936B2CFE125F62D2006A39D0 /* PBXTextBookmark */ = 936B2CFE125F62D2006A39D0 /* PBXTextBookmark */;
+			936B2D01125F62F1006A39D0 /* PBXTextBookmark */ = 936B2D01125F62F1006A39D0 /* PBXTextBookmark */;
+			936B2D02125F6305006A39D0 /* PBXTextBookmark */ = 936B2D02125F6305006A39D0 /* PBXTextBookmark */;
+			936B2D05125F633E006A39D0 /* PBXTextBookmark */ = 936B2D05125F633E006A39D0 /* PBXTextBookmark */;
+			936B2D08125F6391006A39D0 /* PBXTextBookmark */ = 936B2D08125F6391006A39D0 /* PBXTextBookmark */;
+			936B2D0B125F639E006A39D0 /* PBXTextBookmark */ = 936B2D0B125F639E006A39D0 /* PBXTextBookmark */;
+			936B2D0C125F63AF006A39D0 /* PBXTextBookmark */ = 936B2D0C125F63AF006A39D0 /* PBXTextBookmark */;
+			936B2D0F125F63CA006A39D0 /* PBXTextBookmark */ = 936B2D0F125F63CA006A39D0 /* PBXTextBookmark */;
+			936B2D12125F63F9006A39D0 /* PBXTextBookmark */ = 936B2D12125F63F9006A39D0 /* PBXTextBookmark */;
+			936B2D13125F63F9006A39D0 /* PBXTextBookmark */ = 936B2D13125F63F9006A39D0 /* PBXTextBookmark */;
+			936B2D14125F63F9006A39D0 /* PBXTextBookmark */ = 936B2D14125F63F9006A39D0 /* PBXTextBookmark */;
+			936B2D17125F6410006A39D0 /* PBXTextBookmark */ = 936B2D17125F6410006A39D0 /* PBXTextBookmark */;
+			936B2D1A125F641B006A39D0 /* PBXTextBookmark */ = 936B2D1A125F641B006A39D0 /* PBXTextBookmark */;
+			936B2D1F125F6459006A39D0 /* PBXTextBookmark */ = 936B2D1F125F6459006A39D0 /* PBXTextBookmark */;
+			936B2D20125F6459006A39D0 /* PBXTextBookmark */ = 936B2D20125F6459006A39D0 /* PBXTextBookmark */;
+			936B2D21125F6459006A39D0 /* PBXTextBookmark */ = 936B2D21125F6459006A39D0 /* PBXTextBookmark */;
+			936B2D25125F6536006A39D0 /* PBXTextBookmark */ = 936B2D25125F6536006A39D0 /* PBXTextBookmark */;
+			936B2D26125F6536006A39D0 /* PBXTextBookmark */ = 936B2D26125F6536006A39D0 /* PBXTextBookmark */;
+			936B2D27125F6536006A39D0 /* XCBuildMessageTextBookmark */ = 936B2D27125F6536006A39D0 /* XCBuildMessageTextBookmark */;
+			936B2D28125F6536006A39D0 /* PBXTextBookmark */ = 936B2D28125F6536006A39D0 /* PBXTextBookmark */;
+			936B2D29125F6538006A39D0 /* PBXTextBookmark */ = 936B2D29125F6538006A39D0 /* PBXTextBookmark */;
+			936B2D2E125F6594006A39D0 /* PBXTextBookmark */ = 936B2D2E125F6594006A39D0 /* PBXTextBookmark */;
+			936B2D31125F669A006A39D0 /* PBXTextBookmark */ = 936B2D31125F669A006A39D0 /* PBXTextBookmark */;
+			936B2D32125F669A006A39D0 /* PBXTextBookmark */ = 936B2D32125F669A006A39D0 /* PBXTextBookmark */;
+			936B2D33125F669A006A39D0 /* PBXTextBookmark */ = 936B2D33125F669A006A39D0 /* PBXTextBookmark */;
+			936B2D36125F66A7006A39D0 /* PBXTextBookmark */ = 936B2D36125F66A7006A39D0 /* PBXTextBookmark */;
+			936B2D39125F66F7006A39D0 /* PBXTextBookmark */ = 936B2D39125F66F7006A39D0 /* PBXTextBookmark */;
+			936B2D3C125F6759006A39D0 /* PBXTextBookmark */ = 936B2D3C125F6759006A39D0 /* PBXTextBookmark */;
+			936B2D3D125F675E006A39D0 /* PBXTextBookmark */ = 936B2D3D125F675E006A39D0 /* PBXTextBookmark */;
+			936B2D42125F6929006A39D0 /* PBXTextBookmark */ = 936B2D42125F6929006A39D0 /* PBXTextBookmark */;
+			936B2D43125F694F006A39D0 /* PBXTextBookmark */ = 936B2D43125F694F006A39D0 /* PBXTextBookmark */;
+			936B2D45125F6988006A39D0 /* PBXTextBookmark */ = 936B2D45125F6988006A39D0 /* PBXTextBookmark */;
+			936B2D46125F6988006A39D0 /* PBXTextBookmark */ = 936B2D46125F6988006A39D0 /* PBXTextBookmark */;
+			936B2D47125F6988006A39D0 /* PBXTextBookmark */ = 936B2D47125F6988006A39D0 /* PBXTextBookmark */;
+			936B2D4D125F69D9006A39D0 /* PBXTextBookmark */ = 936B2D4D125F69D9006A39D0 /* PBXTextBookmark */;
+			936B2D4E125F69D9006A39D0 /* PBXTextBookmark */ = 936B2D4E125F69D9006A39D0 /* PBXTextBookmark */;
+			936B2D4F125F69D9006A39D0 /* PBXTextBookmark */ = 936B2D4F125F69D9006A39D0 /* PBXTextBookmark */;
+			936B2D52125F6A0D006A39D0 /* PBXTextBookmark */ = 936B2D52125F6A0D006A39D0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 936B2C9A125F5C9C006A39D0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	936B2C8B125F5C9B006A39D0 /* Stompfone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Stompfone;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	936B2C9A125F5C9C006A39D0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	936B2C9B125F5C9C006A39D0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	936B2C9F125F5D1D006A39D0 /* AsyncSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 8398}}";
+			sepNavSelRange = "{29417, 0}";
+			sepNavVisRange = "{13924, 1528}";
+		};
+	};
+	936B2CA0125F5D1D006A39D0 /* AsyncSocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 50089}}";
+			sepNavSelRange = "{115772, 0}";
+			sepNavVisRange = "{31617, 476}";
+		};
+	};
+	936B2CA1125F5D1D006A39D0 /* CRVStompClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1066}}";
+			sepNavSelRange = "{923, 145}";
+			sepNavVisRange = "{413, 1029}";
+		};
+	};
+	936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {638, 3939}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 442}";
+		};
+	};
+	936B2CBC125F5E7F006A39D0 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Class 'StompfoneAppDelegate' does not implement the 'CRVStompClientDelegate' protocol";
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 98;
+		rType = 1;
+	};
+	936B2CBD125F5E7F006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 90";
+		rLen = 0;
+		rLoc = 3068;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 2499;
+	};
+	936B2CE6125F61E2006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 9507;
+	};
+	936B2CE7125F61E2006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA1125F5D1D006A39D0 /* CRVStompClient.h */;
+		name = "CRVStompClient.h: 28";
+		rLen = 126;
+		rLoc = 562;
+		rType = 0;
+		vrLen = 1098;
+		vrLoc = 413;
+	};
+	936B2CE8125F61E2006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2C9F125F5D1D006A39D0 /* AsyncSocket.h */;
+		name = "AsyncSocket.h: 649";
+		rLen = 0;
+		rLoc = 29417;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 13924;
+	};
+	936B2CE9125F61E2006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA0125F5D1D006A39D0 /* AsyncSocket.m */;
+		name = "AsyncSocket.m: 3931";
+		rLen = 0;
+		rLoc = 115498;
+		rType = 0;
+		vrLen = 730;
+		vrLoc = 17989;
+	};
+	936B2CEA125F61E2006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StompfoneAppDelegate.h */;
+		name = "StompfoneAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	936B2CEB125F61E2006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 85";
+		rLen = 0;
+		rLoc = 3068;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 2215;
+	};
+	936B2CEC125F61E2006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 64";
+		rLen = 0;
+		rLoc = 2270;
+		rType = 0;
+		vrLen = 816;
+		vrLoc = 1757;
+	};
+	936B2CF6125F62A8006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 742;
+		vrLoc = 9507;
+	};
+	936B2CF7125F62A8006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StompfoneAppDelegate.h */;
+		name = "StompfoneAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	936B2CF8125F62A8006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 57";
+		rLen = 0;
+		rLoc = 2077;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 1758;
+	};
+	936B2CF9125F62A8006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 95";
+		rLen = 0;
+		rLoc = 3068;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 2284;
+	};
+	936B2CFE125F62D2006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 94";
+		rLen = 0;
+		rLoc = 3062;
+		rType = 0;
+		vrLen = 975;
+		vrLoc = 2291;
+	};
+	936B2D01125F62F1006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 97";
+		rLen = 0;
+		rLoc = 3125;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 2291;
+	};
+	936B2D02125F6305006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 98";
+		rLen = 0;
+		rLoc = 3200;
+		rType = 0;
+		vrLen = 985;
+		vrLoc = 2284;
+	};
+	936B2D05125F633E006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 96";
+		rLen = 0;
+		rLoc = 3125;
+		rType = 0;
+		vrLen = 975;
+		vrLoc = 2291;
+	};
+	936B2D08125F6391006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 97";
+		rLen = 0;
+		rLoc = 3197;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 2291;
+	};
+	936B2D0B125F639E006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 88";
+		rLen = 0;
+		rLoc = 2824;
+		rType = 0;
+		vrLen = 995;
+		vrLoc = 2291;
+	};
+	936B2D0C125F63AF006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 94";
+		rLen = 0;
+		rLoc = 3062;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 2284;
+	};
+	936B2D0F125F63CA006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 100";
+		rLen = 0;
+		rLoc = 3266;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 2415;
+	};
+	936B2D12125F63F9006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA1125F5D1D006A39D0 /* CRVStompClient.h */;
+		name = "CRVStompClient.h: 34";
+		rLen = 145;
+		rLoc = 923;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 413;
+	};
+	936B2D13125F63F9006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 94";
+		rLen = 0;
+		rLoc = 3067;
+		rType = 0;
+		vrLen = 895;
+		vrLoc = 2423;
+	};
+	936B2D14125F63F9006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 104";
+		rLen = 0;
+		rLoc = 3483;
+		rType = 0;
+		vrLen = 1072;
+		vrLoc = 2426;
+	};
+	936B2D17125F6410006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 86";
+		rLen = 0;
+		rLoc = 2684;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 2445;
+	};
+	936B2D1A125F641B006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 89";
+		rLen = 0;
+		rLoc = 2825;
+		rType = 0;
+		vrLen = 1037;
+		vrLoc = 2494;
+	};
+	936B2D1B125F6452006A39D0 /* CRVStompClient.m:112 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		functionName = "-connect";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 112;
+		location = Stompfone;
+		modificationTime = 308241503.532917;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	936B2D1F125F6459006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 93";
+		rLen = 0;
+		rLoc = 2972;
+		rType = 0;
+		vrLen = 1028;
+		vrLoc = 2494;
+	};
+	936B2D20125F6459006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 112";
+		rLen = 0;
+		rLoc = 3467;
+		rType = 0;
+		vrLen = 1044;
+		vrLoc = 2897;
+	};
+	936B2D21125F6459006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 112";
+		rLen = 0;
+		rLoc = 3467;
+		rType = 0;
+		vrLen = 1104;
+		vrLoc = 2928;
+	};
+	936B2D25125F6536006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 90";
+		rLen = 0;
+		rLoc = 3068;
+		rType = 0;
+		vrLen = 395;
+		vrLoc = 2546;
+	};
+	936B2D26125F6536006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA0125F5D1D006A39D0 /* AsyncSocket.m */;
+		name = "AsyncSocket.m: 3950";
+		rLen = 0;
+		rLoc = 115772;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 31617;
+	};
+	936B2D27125F6536006A39D0 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Compile /Users/jmesnil/Git/Stompfone/CRVStompClient.m";
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 0;
+		rType = 1;
+	};
+	936B2D28125F6536006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 278;
+		vrLoc = 0;
+	};
+	936B2D29125F6538006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 112";
+		rLen = 0;
+		rLoc = 3467;
+		rType = 0;
+		vrLen = 1104;
+		vrLoc = 2928;
+	};
+	936B2D2E125F6594006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 200";
+		rLen = 0;
+		rLoc = 6808;
+		rType = 0;
+		vrLen = 1296;
+		vrLoc = 6358;
+	};
+	936B2D31125F669A006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 233";
+		rLen = 0;
+		rLoc = 8051;
+		rType = 0;
+		vrLen = 1315;
+		vrLoc = 7997;
+	};
+	936B2D32125F669A006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 93";
+		rLen = 0;
+		rLoc = 2972;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 2472;
+	};
+	936B2D33125F669A006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 92";
+		rLen = 0;
+		rLoc = 2969;
+		rType = 0;
+		vrLen = 1037;
+		vrLoc = 2494;
+	};
+	936B2D36125F66A7006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 89";
+		rLen = 0;
+		rLoc = 2825;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 2494;
+	};
+	936B2D39125F66F7006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 64";
+		rLen = 0;
+		rLoc = 2229;
+		rType = 0;
+		vrLen = 981;
+		vrLoc = 1645;
+	};
+	936B2D3C125F6759006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 112";
+		rLen = 0;
+		rLoc = 3622;
+		rType = 0;
+		vrLen = 1066;
+		vrLoc = 2626;
+	};
+	936B2D3D125F675E006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 112";
+		rLen = 0;
+		rLoc = 3622;
+		rType = 0;
+		vrLen = 1063;
+		vrLoc = 2605;
+	};
+	936B2D42125F6929006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 113";
+		rLen = 0;
+		rLoc = 3622;
+		rType = 0;
+		vrLen = 1096;
+		vrLoc = 2605;
+	};
+	936B2D43125F694F006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */;
+		name = "CRVStompClient.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	936B2D45125F6988006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StompfoneAppDelegate.h */;
+		name = "StompfoneAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 398;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 0;
+	};
+	936B2D46125F6988006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 113";
+		rLen = 0;
+		rLoc = 3622;
+		rType = 0;
+		vrLen = 1096;
+		vrLoc = 2605;
+	};
+	936B2D47125F6988006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 113";
+		rLen = 0;
+		rLoc = 3638;
+		rType = 0;
+		vrLen = 1088;
+		vrLoc = 2605;
+	};
+	936B2D4D125F69D9006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StompfoneAppDelegate.h */;
+		name = "StompfoneAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 398;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 0;
+	};
+	936B2D4E125F69D9006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 113";
+		rLen = 0;
+		rLoc = 3638;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 2273;
+	};
+	936B2D4F125F69D9006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 88";
+		rLen = 0;
+		rLoc = 2683;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 2556;
+	};
+	936B2D52125F6A0D006A39D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StompfoneAppDelegate.m */;
+		name = "StompfoneAppDelegate.m: 112";
+		rLen = 0;
+		rLoc = 3622;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 2583;
+	};
+}
