@@ -86,12 +86,12 @@
 
 - (IBAction)send:(id)sender {
     if (!stompClient) {
-        stompClient = [[[CRVStompClient alloc]
+        stompClient = [[CRVStompClient alloc]
                              initWithHost:@"localhost" 
                              port:61613 
                              login:@"guest"
                              passcode:@"guest"
-                             delegate:self] retain];
+                             delegate:self];
         [stompClient connect];
         [stompClient subscribeToDestination:kDestination];
     }
@@ -109,6 +109,7 @@
 
 
 - (void)stompClient:(CRVStompClient *)stompService messageReceived:(NSString *)body withHeader:(NSDictionary *)messageHeader {
+    NSLog(@"received %@ with body %@", messageHeader, body);
     receivedText.text = body;
 }
 
