@@ -13,8 +13,8 @@
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
-		936B2CA3125F5D1D006A39D0 /* AsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 936B2CA0125F5D1D006A39D0 /* AsyncSocket.m */; };
-		936B2CA4125F5D1D006A39D0 /* CRVStompClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */; };
+		9336EC8F12631D72006A28CB /* AsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 9336EC8C12631D72006A28CB /* AsyncSocket.m */; };
+		9336EC9012631D72006A28CB /* CRVStompClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 9336EC8E12631D72006A28CB /* CRVStompClient.m */; };
 		936B2CDF125F60D9006A39D0 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 936B2CDE125F60D9006A39D0 /* CFNetwork.framework */; };
 /* End PBXBuildFile section */
 
@@ -29,10 +29,10 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* Stompfone_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stompfone_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Stompfone-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Stompfone-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
-		936B2C9F125F5D1D006A39D0 /* AsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AsyncSocket.h; sourceTree = "<group>"; };
-		936B2CA0125F5D1D006A39D0 /* AsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AsyncSocket.m; sourceTree = "<group>"; };
-		936B2CA1125F5D1D006A39D0 /* CRVStompClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CRVStompClient.h; sourceTree = "<group>"; };
-		936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CRVStompClient.m; sourceTree = "<group>"; };
+		9336EC8B12631D72006A28CB /* AsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AsyncSocket.h; path = Classes/AsyncSocket.h; sourceTree = "<group>"; };
+		9336EC8C12631D72006A28CB /* AsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AsyncSocket.m; path = Classes/AsyncSocket.m; sourceTree = "<group>"; };
+		9336EC8D12631D72006A28CB /* CRVStompClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CRVStompClient.h; path = Classes/CRVStompClient.h; sourceTree = "<group>"; };
+		9336EC8E12631D72006A28CB /* CRVStompClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CRVStompClient.m; path = Classes/CRVStompClient.m; sourceTree = "<group>"; };
 		936B2CDE125F60D9006A39D0 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -71,7 +71,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				936B2C9E125F5D00006A39D0 /* Stomp */,
+				9336EC9112631D81006A28CB /* Stomp */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -110,13 +110,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		936B2C9E125F5D00006A39D0 /* Stomp */ = {
+		9336EC9112631D81006A28CB /* Stomp */ = {
 			isa = PBXGroup;
 			children = (
-				936B2C9F125F5D1D006A39D0 /* AsyncSocket.h */,
-				936B2CA0125F5D1D006A39D0 /* AsyncSocket.m */,
-				936B2CA1125F5D1D006A39D0 /* CRVStompClient.h */,
-				936B2CA2125F5D1D006A39D0 /* CRVStompClient.m */,
+				9336EC8B12631D72006A28CB /* AsyncSocket.h */,
+				9336EC8C12631D72006A28CB /* AsyncSocket.m */,
+				9336EC8D12631D72006A28CB /* CRVStompClient.h */,
+				9336EC8E12631D72006A28CB /* CRVStompClient.m */,
 			);
 			name = Stomp;
 			sourceTree = "<group>";
@@ -183,8 +183,8 @@
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* StompfoneAppDelegate.m in Sources */,
-				936B2CA3125F5D1D006A39D0 /* AsyncSocket.m in Sources */,
-				936B2CA4125F5D1D006A39D0 /* CRVStompClient.m in Sources */,
+				9336EC8F12631D72006A28CB /* AsyncSocket.m in Sources */,
+				9336EC9012631D72006A28CB /* CRVStompClient.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
